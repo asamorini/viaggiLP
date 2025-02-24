@@ -2,7 +2,7 @@
 
     //document.addEventListener('DOMContentLoaded', init);
     init();
-
+ 
     function init() {
         //DOM CREATION
         updateDOM();
