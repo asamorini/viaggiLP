@@ -5,10 +5,6 @@
 
     function init() {
         //DOM CREATION
-/*TODO
-pubblicare su GIT
-creare bookmarklet che ri
-*/
         updateDOM();
     }
 
